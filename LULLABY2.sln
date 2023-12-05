@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LULLABY2", "LULLABY2\LULLABY2.csproj", "{AA2C47CC-376D-451C-8F07-727329729B8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SERVICES", "LULLABU_SERVICES\SERVICES.csproj", "{74EB4713-DD2F-4E12-A53A-2FCD05BF4948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2C47CC-376D-451C-8F07-727329729B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2C47CC-376D-451C-8F07-727329729B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2C47CC-376D-451C-8F07-727329729B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2C47CC-376D-451C-8F07-727329729B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EB4713-DD2F-4E12-A53A-2FCD05BF4948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EB4713-DD2F-4E12-A53A-2FCD05BF4948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EB4713-DD2F-4E12-A53A-2FCD05BF4948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EB4713-DD2F-4E12-A53A-2FCD05BF4948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263AE3E5-98F5-4A0D-BD8B-BA410D57B8CC}
+	EndGlobalSection
+EndGlobal
