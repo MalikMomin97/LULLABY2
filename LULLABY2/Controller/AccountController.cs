@@ -23,11 +23,7 @@ namespace LULLABY2.Controller
             var result = await _Service.Registerr(model);
             if (result != null)
             {
-                //var response = new ApiResponse<Register>
-                //{
-                //    Status = "Success",
-                //    Message = "Created Successfully"
-                //};
+               
                 return Ok(result);
             }
             return BadRequest();
